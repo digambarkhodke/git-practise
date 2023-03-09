@@ -1,1 +1,3 @@
 hello all how are you
+
+if value of x=10
